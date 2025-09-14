@@ -18,7 +18,8 @@ This script processes EEG data in EDF format to classify infant sleep stages bas
 
 ## Requirements
 - Make sure you have the following Python libraries installed:
-    pip install mne numpy matplotlib
+
+      pip install mne numpy matplotlib
 
 ## Usage
 1. Place your EEG .edf file in the working directory.
