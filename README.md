@@ -25,11 +25,11 @@ This script processes EEG data in EDF format to classify infant sleep stages bas
 1. Place your EEG .edf file in the working directory.
 2. Update the script with the correct file path:
 
-    edf_file_path = "YourData.edf"
+          edf_file_path = "YourData.edf"
 
 3. Run the script:
 
-    python infant_sleep_stages.py
+          python infant_sleep_stages.py
 
 4. A hypnogram plot will be generated showing sleep stage transitions over time
 
